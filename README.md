@@ -8,5 +8,8 @@ Here is my [Instagram](http://instagram.com/meageripret). Feel free to follow me
 
 
 
+
+
+Women in Engineering at Lehigh University
 ![Canva](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/Engineering%20Majors%20make%20up%2029.8%25%20of%20Lehigh's%20UnderGraduate%20Enrollment.png?raw=true)
 I, despite not being particularly skilled or interested in the STEM fields, believe that it's important to acknowledge the fact that there aren't nearly as many women as men studying them. I think that it's something that should be encouraged to women because it's easy to feel turned away by a male-dominated field. This is an infographic I created using Canva. 
