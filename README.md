@@ -4,6 +4,11 @@ My name is Meagan Eripret. This is me: ![me](IMG_3518.JPG) ![me](https://github.
 I'm a junior at Lehigh University majoring in English and Journalism and minoring in French. I'm a center on the Women's Basketball team. I love coffee, showtunes, and going through life with [my favorite people](http://www.lehighsports.com/roster.aspx?path=wbball).
 Here is my [Instagram](http://instagram.com/meageripret). Feel free to follow me.
 
+This is a story about [me](http://thebrownandwhite.com/2017/12/10/lehigh-womens-basketball-eripret-profile/) that was written by a fellow Lehigh Student-Athlete, Matt Bonshak, in the fall of 2017. I think it gives a good look into how I ended up here. 
+
+
+
+
 
 
 
@@ -24,6 +29,28 @@ I, despite not being particularly skilled or interested in the STEM fields, beli
 Inspired by tonight's State of the Union Address, I created this infographic using Canva to highlight President Trump's obsession with the media and with the idea of "Fake News." In the first 6 months of his presidency, over half of his tweets that mentioned the media said the words "Fake News." That's nuts. 
 
 
-Here is a timeline of the 2016 Summer Oympics that I created to practice using Timeline
+### 2016 Summer Olympics
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dYoOQhhnsgWffi32QR_xh043YWKw5Kxzzi8l5bkKqq4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+I created this timeline of the 2016 Summer Olympics to practice using Timeline JS
+
+
+
+
+
+
+
+## My Stories
+Here's a collection of the stories that I have written for The Brown and White.
+
+[Donny Stires](http://thebrownandwhite.com/2017/04/09/senior-captain-finds-new-role-on-the-field/) began his Lehigh Lacrosse career as a walk-on and was a starter 4 years later.
+
+Lehigh Student Senate had it's first [Student Athlete Constituency](http://thebrownandwhite.com/2017/09/08/lehigh-athletes-student-senate/) in the fall of 2017.
+
+The women's tennis team's [freshman class](http://thebrownandwhite.com/2017/09/24/170924-womens-tennis-2017-recruiting-class/) brought in a lot of talent.
+
+Lehigh Football's strong core of [running backs](http://thebrownandwhite.com/2017/10/11/lehigh-football-running-backs/) were a beacon of hope early in the season. 
+
+[Ian Brown](http://thebrownandwhite.com/2017/12/03/lehigh-wrestling-ian-brown-profile/) looked back on his career as a Lehigh Wrestler and talked goals for the 2017-2018 season.
