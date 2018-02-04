@@ -37,6 +37,13 @@ Inspired by tonight's State of the Union Address, I created this infographic usi
 I created this timeline of the 2016 Summer Olympics to practice using Timeline JS
 
 
+### Ross and Rachel
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12_YaoO3i0O-18gkBjOtiwS4vCBezHAnc7v7A7lGIQqs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
+I created this timeline of one of TV's most iconic relationships using Timeline JS to really nail down exactly how their relationship progressed over the 10 years of the show. There were a lot of ups and downs, but, ultimately, they had their happy ending. 
+
+
 
 
 
