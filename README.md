@@ -46,7 +46,7 @@ I created this timeline of one of TV's most iconic relationships using Timeline 
 
 
 ### Undergraduate Enrollment
-![Chartbuilder Practice](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment__chartbuilder.png?raw=true)
+![Chartbuilder Practice](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment%202__chartbuilder.png?raw=true)
 
 I created this chart with Chartbuilder as practice to learn how to use the program. It shows the percentage of undergraduate enrollment at Lehigh University. 
 
@@ -68,4 +68,4 @@ Lehigh Football's strong core of [running backs](http://thebrownandwhite.com/201
 
 [Ian Brown](http://thebrownandwhite.com/2017/12/03/lehigh-wrestling-ian-brown-profile/) looked back on his career as a Lehigh Wrestler and talked goals for the 2017-2018 season.
 
-
+[Alexa Keckler](http://thebrownandwhite.com/2018/02/11/lehigh-volleyball-alexa-keckler/) was hired as Lehigh's new volleyball coach.
