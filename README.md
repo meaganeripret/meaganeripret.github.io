@@ -46,9 +46,16 @@ I created this timeline of one of TV's most iconic relationships using Timeline 
 
 
 ### Undergraduate Enrollment
+
+#### 2016 Bar Chart
 ![Chartbuilder Practice](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment%202__chartbuilder.png?raw=true)
 
 I created this chart with Chartbuilder as practice to learn how to use the program. It shows the percentage of undergraduate enrollment at Lehigh University. 
+
+#### 2008-2017 Line Graph
+![Line Graph Practice](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/Percent_of_Undergraduate_Enrollment_from_2008-2017_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+I created this line graph depicting undergrad enrollment from 2008-2017 as more practice using Chartbuilder. 
 
 
 
