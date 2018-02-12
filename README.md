@@ -59,6 +59,12 @@ I created this line graph depicting undergrad enrollment from 2008-2017 as more 
 
 
 
+### The Sixers
+![Sixers' Last 10 Seasons](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/Philadelphia_76ers_over_the_past_10_Seasons_Number_of_Wins_Win_Percentage_chartbuilder.png?raw=true)
+
+
+The Philadelphia 76ers have been a nortoriously mediocre (or even bad) basketball team for the past few years. But luckily for philly sports fans like me, they seem to be on the rise. This chart that compares their number of wins with their win percentage shows that this 2017-2018 season is looking good. They already have as many wins as last year and the win percentage is up by almost 20%! I created this chart with Chartbuilder.
+
 
 
 
