@@ -65,7 +65,11 @@ I created this line graph depicting undergrad enrollment from 2008-2017 as more 
 
 The Philadelphia 76ers have been a nortoriously mediocre (or even bad) basketball team for the past few years. But luckily for philly sports fans like me, they seem to be on the rise. This chart that compares their number of wins with their win percentage shows that this 2017-2018 season is looking good. They already have as many wins as last year and the win percentage is up by almost 20%! I created this chart with Chartbuilder.
 
+### Art Centers In Bethlehem
 
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1zGZOuIpY89LEQ0HAzqmR9RwwcqEKcW2anL3w5kKE&amp;viz=MAP&amp;h=false&amp;lat=40.60843585651138&amp;lng=-75.37375440518798&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+I made this map of 5 local Art Centers to pratice using Google Fusion Tables
 
 
 ## My Stories
