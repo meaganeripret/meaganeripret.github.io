@@ -74,7 +74,7 @@ I made this map of 5 local Art Centers to pratice using Google Fusion Tables
 
 ### LUWB Players' High Schools
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1nQMw-lbV9NG88VmUZ83WaxwySr39KVCtoAhoAlWn&amp;viz=MAP&amp;h=false&amp;lat=40.16994370148451&amp;lng=-91.51007988125&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1nQMw-lbV9NG88VmUZ83WaxwySr39KVCtoAhoAlWn&amp;viz=MAP&amp;h=false&amp;lat=40.16994370148451&amp;lng=-91.51007988125&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 This is a map created with Google Fusion to show how the athletes of Lehigh Women's Basketball come from all corners of the country. 
 
