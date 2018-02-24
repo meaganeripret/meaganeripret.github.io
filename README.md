@@ -74,9 +74,9 @@ I made this map of 5 local Art Centers to pratice using Google Fusion Tables
 
 ### LUWB Players' High Schools
 
-<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1nQMw-lbV9NG88VmUZ83WaxwySr39KVCtoAhoAlWn&amp;viz=MAP&amp;h=false&amp;lat=40.16994370148451&amp;lng=-91.51007988125&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1g6LAqrV8JjYYiUZGXCIx8pZkgsiUavSbwNihIYVb&amp;viz=MAP&amp;h=false&amp;lat=48.66062338275166&amp;lng=-102.02502695000003&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-This is a map created with Google Fusion to show how the athletes of Lehigh Women's Basketball come from all corners of the country. 
+This is a map created with Google Fusion to show how the athletes of Lehigh Women's Basketball come from all corners of the country. Here's a [link](http://www.lehighsports.com/roster.aspx?path=wbball) to our roster so that you can learn more about all of the players.
 
 
 ### Top Baby Names by State and Year
