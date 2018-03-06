@@ -16,6 +16,10 @@ This is a story about [me](http://thebrownandwhite.com/2017/12/10/lehigh-womens-
 
 ## My Projects
 
+<iframe src="//www.pixton.com/embed/w1gsvztl" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+
+There's no real rhyme or reason for the themes and topics that you'll see next. When an idea comes into my head, I roll with it. I'm passionate about a lot of things. And you'll see some of them here. This comic strip was created with Pixton.
+
 
 ### Women in Engineering at Lehigh University
 ![Canva](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/Engineering%20Majors%20make%20up%2029.8%25%20of%20Lehigh's%20UnderGraduate%20Enrollment.png?raw=true)
