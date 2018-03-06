@@ -25,7 +25,7 @@ I, despite not being particularly skilled or interested in the STEM fields, beli
 
 ### How much does Trump care about the Media?
 #### Does he trust it?
-![Trump infographic](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/President%20Donald%20Trump%20tweeted%20920%20times%20between%20Jan.%2020th%20and%20Jul.%207th%202017.png?raw=true)
+![Trump infographic](https://github.com/meaganeripret/meaganeripret.github.io/blob/master/trump%202.png?raw=true)
 Inspired by tonight's State of the Union Address, I created this infographic using Canva to highlight President Trump's obsession with the media and with the idea of "Fake News." In the first 6 months of his presidency, over half of his tweets that mentioned the media said the words "Fake News." That's nuts. 
 
 
